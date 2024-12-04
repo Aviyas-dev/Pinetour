@@ -1,0 +1,46 @@
+
+
+*{font-family: "Montserrat"}
+.head {
+    background-color: #000;
+    height: 80px;
+    width: 100%;
+}
+.logo img {
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 42px;
+    
+  }
+  .head {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .title-1 {
+    top: 200px;
+    text-align: center;
+    color: #303030;
+    font-size: 72px;
+    text-transform: uppercase;
+  }
+  .title {
+    font-size: 32px;
+    color: #000;
+    text-align: center;
+  }
+  .button-all {
+    gap: 10px;
+    display: flex; 
+    justify-content: center;
+
+}
+.button-size{
+    width: 317px; 
+    height: 97px; 
+    border-radius: 1px;
+    background-color: white;
+    border-color: white;
+}
